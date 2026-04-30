@@ -105,6 +105,10 @@ flowchart TD
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/AIS-n8n-Templates/34.-VIral-Shorts-Machine-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=od312ZF0XWo)
+
+---
+
 ## 🔎 Node-by-Node Configuration 
 
 ### **Flow 1 — Create Scenes**
